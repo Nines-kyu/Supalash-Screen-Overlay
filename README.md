@@ -1,6 +1,10 @@
-# React + TypeScript + Vite
+# Splash Screen Overlay built with React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/2421de78-952e-4daf-a0a7-d54166ab6436" />
+
+This acts like an overlay before entering a website, think of it as a landing page or the door of the house.
 
 Currently, two official plugins are available:
 
